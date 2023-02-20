@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AhmedARmohamed/AhmedARmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working as a Cloud & DevOps Engineer with the knowledge of cloud providers such as Microsoft Azure , AWS. Some of the skills I have include:
+-  Environment provisioning and automation by using Terraform.
+- Application containerization with Docker
+- Running multi-container applications
+- CI/CD ( Jenkins ) ( Azure DevOps Pipelines ) ( Github-Actions )
+- Container orchestiration using Kubernetes
+- Kubernetes service knowledge on AWS EKS , Azure AKS , Google Cloud GKE
+- Golang
 
-Here are some ideas to get you started:
+📫 How to reach me: https://www.linkedin.com/in/ahmedarmohamed/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I also work with data and i practice data anaylytics using Excel, SQL, Python and Power BI and Tabeleau
+
+
