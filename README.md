@@ -11,6 +11,4 @@ I’m currently working as a Cloud & DevOps Engineer with the knowledge of cloud
 
 📫 How to reach me: https://www.linkedin.com/in/ahmedarmohamed/
 
-⚡ Fun fact: I also work with data and i practice data analytics using Excel, SQL, Python and Power BI and Tabeleau
-
 
