@@ -1,31 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Ahmed 👋 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" height="400"/>
+  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" height="300"/>
 </div>
 
-👨‍💻 About Me
-- I’m a Backend Software Engineer passionate about building robust and scalable APIs and microservices. I thrive on solving complex problems and crafting efficient solutions that power modern applications.
+## 👨‍💻 About Me
+I’m a **Backend Software Engineer** based in Nairobi, Kenya. I specialize in building high-performance APIs and fintech integrations. My philosophy: **"Automate everything, tinker with the rest."** 
 
-🔧 Skills & Expertise
-- Programming Languages: Proficient in Java, Go.
-- Cloud Platforms: Hands-on experience with AWS.
-- Infrastructure as Code (IaC): Skilled in environment provisioning and automation using Terraform.
-- Databases: Expertise in MySQL, PostgreSQL, and MongoDB.
-- CI/CD: Proficient in building pipelines with GitHub Actions, Jenkins, and Azure DevOps.
-- Testing: Familiar with tools like JUnit, Mockito, and Postman for ensuring application reliability.
+By day, I'm building fintech solutions; by night, I'm configuring my **Arch Linux (i3wm)** setup or running **Terraform** plans in my homelab.
 
-🌱 Currently Learning
-- Advanced Kubernetes orchestration and containerization.
-- Exploring machine learning integration with backend systems.
+## 🔧 Skills & Expertise
+*   **Languages:** Node.js (TypeScript/Fastify), Go, Java.
+*   **Infrastructure:** Terraform (IaC), AWS, Docker, Arch Linux.
+*   **Databases:** PostgreSQL (Raw SQL enthusiast), MySQL, MongoDB.
+*   **CI/CD:** GitHub Actions, Jenkins, Azure DevOps.
+*   **Backend Focus:** Scalable Microservices, FinTech API Integrations, Payment Gateways (M-Pesa/Western Union).
 
+## 🌱 Currently Learning
+*   **90-Day Backend Sprint:** Mastering advanced PostgreSQL (Window functions, Keyset pagination) and Fastify architecture.
+*   **Infrastructure:** Deep diving into Kubernetes orchestration.
 
-🤝 Let’s Connect
-- 📫 How to Reach Me: https://www.linkedin.com/in/ahmedarmohamed/
-- Portfolio: Your Website
+## 🤝 Let’s Connect
+*   **LinkedIn:** [AhmedARmohamed](https://www.linkedin.com/in/ahmedarmohamed/)
+*   **Focus:** Open for discussions on Backend Architecture, Fintech, or OSS.
 
-⚡ Fun Fact
-I’m an avid gamer and love experimenting with coding projects that combine my love for tech and creativity!
+⚡ **Fun Fact:** I'm an avid gamer and a firm believer that if you have to do it twice, you should have written a script for it.
 
 
 
