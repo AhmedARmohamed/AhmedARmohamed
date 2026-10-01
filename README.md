@@ -17,7 +17,6 @@ By day, I'm building fintech solutions; by night, I'm configuring my **Arch Linu
 *   **Backend Focus:** Scalable Microservices, FinTech API Integrations, Payment Gateways (M-Pesa/Western Union).
 
 ## 🌱 Currently Learning
-*   **90-Day Backend Sprint:** Mastering advanced PostgreSQL (Window functions, Keyset pagination) and Fastify architecture.
 *   **Infrastructure:** Deep diving into Kubernetes orchestration.
 
 ## 🤝 Let’s Connect
